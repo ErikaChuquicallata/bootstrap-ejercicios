@@ -1,0 +1,13 @@
+{
+  "name": "bootstrap-ejercicios",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
